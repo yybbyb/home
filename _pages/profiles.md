@@ -1,28 +1,44 @@
 ---
-layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+layout: page
+permalink: /members/
+title: Members
+description: 에너지AI·계산과학실 구성원
 nav: true
-nav_order: 7
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+nav_order: 2
 ---
+
+{% assign teams = "atomic,cfd,process,data-ai" | split: "," %}
+{% assign team_names = "원자단위 전산모사 연구,전산유체역학 기반 수치해석 연구,공정 전산모사 및 설계 연구,데이터/AI 기반 연구" | split: "," %}
+
+{% for team in teams %}
+{% assign idx = forloop.index0 %}
+
+### {{ team_names[idx] }}
+
+<table>
+  <thead>
+    <tr>
+      <th>이름</th>
+      <th>직급</th>
+    </tr>
+  </thead>
+  <tbody>
+{% assign team_members = site.data.members | where: "team", team %}
+{% for member in team_members %}
+    <tr>
+      <td>
+        {% if member.external_url and member.external_url != "" %}
+        <a href="{{ member.external_url }}" target="_blank">{{ member.name }}</a>
+        {% else %}
+        <a href="{{ site.baseurl }}/members/{{ member.id }}/">{{ member.name }}</a>
+        {% endif %}
+      </td>
+      <td>{{ member.position }}</td>
+    </tr>
+{% endfor %}
+  </tbody>
+</table>
+
+---
+
+{% endfor %}

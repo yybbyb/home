@@ -1,0 +1,91 @@
+# 에너지AI·계산과학실 구성원 데이터
+#
+# 사용법:
+#   - external_url: 외부 개인 페이지 URL (있으면 외부로 링크)
+#   - external_url이 비어있으면 내부 페이지 (/members/id/)로 링크
+#
+# team 값: atomic, cfd, process, data-ai
+
+# 원자단위 전산모사 연구
+- id: khyim
+  name: 임강훈
+  name_en: Kanghoon Lim
+  position: 책임연구원
+  team: atomic
+  email: khyim@kier.re.kr
+  external_url:
+
+- id: yyoun
+  name: 윤용
+  name_en: Yong Yoon
+  position: 선임연구원
+  team: atomic
+  email: yyoun@kier.re.kr
+  external_url:
+
+- id: wjeong
+  name: 정우석
+  name_en: Wooseok Jung
+  position: 선임연구원
+  team: atomic
+  email: wjeong@kier.re.kr
+  external_url:
+
+# 전산유체역학 기반 수치해석 연구
+- id: pss
+  name: 박상신
+  name_en: Sangshin Park
+  position: 책임연구원
+  team: cfd
+  email: pss@kier.re.kr
+  external_url:
+
+- id: sangwoo.kim
+  name: 김상우
+  name_en: Sangwoo Kim
+  position: 선임연구원
+  team: cfd
+  email: sangwoo.kim@kier.re.kr
+  external_url:
+
+# 공정 전산모사 및 설계 연구
+- id: jhpark222
+  name: 박정호
+  name_en: Jungho Park
+  position: 책임연구원
+  team: process
+  email: jhpark222@kier.re.kr
+  external_url: https://sites.google.com/view/proses-group
+
+- id: yhchu
+  name: 주영환
+  name_en: Younghwan Joo
+  position: 책임연구원
+  team: process
+  email: yhchu@kier.re.kr
+  external_url:
+
+# 데이터/AI 기반 연구
+- id: thekan
+  name: 김덕환
+  name_en: Dukhwan Kim
+  position: 책임연구원
+  team: data-ai
+  email: thekan@kier.re.kr
+  external_url:
+
+- id: leesh
+  name: 이승희
+  name_en: Seunghee Lee
+  position: 선임연구원
+  team: data-ai
+  email: leesh@kier.re.kr
+  external_url:
+
+- id: woongheelee
+  name: 이웅희
+  name_en: Woonghee Lee
+  position: 선임연구원
+  team: data-ai
+  email: woongheelee@kier.re.kr
+  external_url:

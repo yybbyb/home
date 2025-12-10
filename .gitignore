@@ -13,3 +13,5 @@ vendor
 .idea
 .venv
 .claude/
+_config.local.yml
+run-local-server.sh

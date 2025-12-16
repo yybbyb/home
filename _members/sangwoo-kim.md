@@ -47,10 +47,10 @@ description: 선임연구원 | 전산유체역학
 
 Massoudifarid, M., Piri, A., Massoudifarid, M., Jung, J., **Kim, S.**, & Hwang, J.\* (2024) Application of ionic wind in sampling of bioaerosols: collection efficiency, ROS/RNS production, and viability assessment. _Journal of Hazardous Materials_, 483, 136612.
 
-Nam, J., **Kim, S.**, & Hwang, J.\* (2024) Effect of gas temperature on carbon soot oxidation via non-thermal plasma: two-dimensional numerical study integrating reactive flow and discharge models. Environmental Science and Pollution Research, 31, 15580-15596. (\*\* co-first author)
+Nam, J.\*\*, **Kim, S.**\*\*, & Hwang, J.\* (2024) Effect of gas temperature on carbon soot oxidation via non-thermal plasma: two-dimensional numerical study integrating reactive flow and discharge models. _Environmental Science and Pollution Research_, 31, 15580-15596. (\*\* co-first author)
 
-**Kim, S.**, & Hwang, J.\* (2022). Numerical methodology to evaluate unipolar saturation current limit of DC corona discharge in complex geometries. Scientific Reports, 12(1), 14252.
+**Kim, S.**, & Hwang, J.\* (2022). Numerical methodology to evaluate unipolar saturation current limit of DC corona discharge in complex geometries. _Scientific Reports_, 12(1), 14252.
 
-**Kim, S.**, Tae, U. Y., & Hwang, J.\* (2020). Numerical investigation of the separation mechanism in an electrostatic aerosol-to-hydrosol separator by glow corona discharge: a quantitative comparison of the effects of ionic wind and Coulomb force. Plasma Sources Science and Technology, 29(7), 075008.
+**Kim, S.**, Tae, U. Y., & Hwang, J.\* (2020). Numerical investigation of the separation mechanism in an electrostatic aerosol-to-hydrosol separator by glow corona discharge: a quantitative comparison of the effects of ionic wind and Coulomb force. _Plasma Sources Science and Technology_, 29(7), 075008.
 
-**Kim, S.**, Kim, B., Lee, U., & Hwang, J.\* (2020). Two-step numerical procedure on the removal process of gaseous potassium chloride generated from waste incineration via the injection of sulfate-based additives. Waste Management, 107, 36-43.
+**Kim, S.**, Kim, B., Lee, U., & Hwang, J.\* (2020). Two-step numerical procedure on the removal process of gaseous potassium chloride generated from waste incineration via the injection of sulfate-based additives. _Waste Management_, 107, 36-43.

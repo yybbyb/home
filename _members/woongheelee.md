@@ -2,7 +2,7 @@
 layout: page
 title: 이웅희
 name: woongheelee
-description: 선임연구원 | 데이터/AI 기반 연구
+description: 선임연구원 | AI·데이터 과학
 ---
 
 <div class="row">
@@ -11,7 +11,7 @@ description: 선임연구원 | 데이터/AI 기반 연구
   </div>
   <div class="col-md-9">
     <h2>이웅희 (Woonghee Lee)</h2>
-    <p><strong>선임연구원</strong> · 데이터/AI 기반 연구</p>
+    <p><strong>선임연구원</strong> · AI·데이터 과학</p>
     <p>
       <!-- <i class="fas fa-building"></i> 한국에너지기술연구원 에너지AI·계산과학실<br>
       <i class="fas fa-map-marker-alt"></i> Gajeong-ro 152, Yuseong-gu, Daejeon 34129<br> -->

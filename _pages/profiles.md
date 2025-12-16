@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 {% assign teams = "atomic,cfd,process,data-ai" | split: "," %}
-{% assign team_names = "원자단위 전산모사 연구,전산유체역학 기반 수치해석 연구,공정 전산모사 및 설계 연구,데이터/AI 기반 연구" | split: "," %}
+{% assign team_names = "원자단위 전산모사,전산유체역학,공정/엔지니어링,AI·데이터 과학" | split: "," %}
 
 {% for team in teams %}
 {% assign idx = forloop.index0 %}

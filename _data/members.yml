@@ -6,7 +6,7 @@
 #
 # team 값: atomic, cfd, process, data-ai
 
-# 원자단위 전산모사 연구
+# 원자단위 전산모사
 - id: khyim
   name: 임강훈
   name_en: Kanghoon Lim
@@ -31,7 +31,7 @@
   email: wjeong@kier.re.kr
   external_url:
 
-# 전산유체역학 기반 수치해석 연구
+# 전산유체역학
 - id: pss
   name: 박상신
   name_en: Sangshin Park
@@ -48,7 +48,7 @@
   email: sangwoo.kim@kier.re.kr
   external_url:
 
-# 공정/엔지니어링 및 설계 연구
+# 공정/엔지니어링
 - id: jhpark222
   name: 박정호
   name_en: Jungho Park
@@ -65,7 +65,7 @@
   email: yhchu@kier.re.kr
   external_url:
 
-# 데이터/AI 기반 연구
+# AI·데이터 과학
 - id: thekan
   name: 김덕환
   name_en: Dukhwan Kim

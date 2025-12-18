@@ -10,7 +10,7 @@ description: 책임연구원 | AI·데이터 과학
     <img src="/assets/img/members/thekan.jpg"
      class="rounded"
      style="
-       width: 220px;
+       width: 230px;
        height: 260px;
        object-fit: cover;
        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
@@ -53,6 +53,7 @@ description: 책임연구원 | AI·데이터 과학
 ### Honors and Awards
 
 - 국가과학기술연구회 (NST), 2024년 출연(연) 연구행정혁신 아이디어 공모전 최우수상 
+
 
 
 
